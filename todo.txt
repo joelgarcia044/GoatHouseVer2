@@ -1,0 +1,21 @@
+homepage => contains cards of artist and nav bar
+
+onHover(card) => short bio pop up
+onClick(card) => route to artist page
+
+artist page => background of project, gallery of img, long bio, links to work,
+	media player (video of project(s)
+
+	use material ui to create image list to store in gallery
+
+todo: implement nav bar, change from columns to rows, re-orient artist page
+	add material-ui
+	joel images convet to jpeg/png
+	about page all of goathouse
+	contact us
+	pictures of projects as well as links
+	preformance videos
+	find theme for site/background images
+	add form direct to nyck
+	add nyck's beatstore
+	 
